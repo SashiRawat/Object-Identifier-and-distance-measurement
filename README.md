@@ -28,14 +28,12 @@ pip install -r requirements.txt
 - Create two more functions to calculate Distance and Focal length
 - Create an instance of DetectionModel and pass reference images to the detected object.
 - Using cv2, capture the real-time Video using WebCam and measure distance in inches. 
-## Screenshots
 
-![outcome](https://user-images.githubusercontent.com/66197713/188265636-a2e529ba-800f-4a49-9643-fc3e4460ccd8.png)
 
 
 ## Presentation
 
-[Canva Presentation- Team Cipher](https://www.canva.com/design/DAFLKeN0WFE/0tIHlfOiTvCe71TXL7bPWw/view?utm_content=DAFLKeN0WFE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Canva Presentation- (https://www.canva.com/design/DAFLKeN0WFE/0tIHlfOiTvCe71TXL7bPWw/view?utm_content=DAFLKeN0WFE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Future Aspects- Applications
 
@@ -51,4 +49,4 @@ pip install -r requirements.txt
 - In future this problem statement code will be dumped on Raspberry PI or ESP-32
 ## Authors
 
-- [@TRJ_0751](https://www.twitter.com/TRJ_0751)
+SASHI KUMAR BARI
